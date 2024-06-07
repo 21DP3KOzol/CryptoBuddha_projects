@@ -7,11 +7,11 @@ Vispirms palaidiet izstrādes serveri:
 
 Bash
 npm run dev
-# vai 
+vai 
 yarn dev
-# vai
+ vai
 pnpm dev
-# vai
+ vai
 bun dev
 
 Atveriet http://localhost:3000 pārlūkprogrammā, lai redzētu rezultātu.
