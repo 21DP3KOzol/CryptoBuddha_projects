@@ -7,7 +7,7 @@ Vispirms palaidiet izstrādes serveri:
 
 Bash
 npm run dev
-# vai
+# vai 
 yarn dev
 # vai
 pnpm dev
